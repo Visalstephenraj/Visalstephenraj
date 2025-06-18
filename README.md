@@ -1,1 +1,55 @@
 Hi! i'm Visal stephenraj
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Visal Stephenraj R - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+            color: #333;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img.profile-pic {
+            width: 180px; /* Change width as needed */
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Profile Image (Make sure the image file is in the same folder) -->
+        <img src="Snapchat-2016336120.jpg" alt="Profile Photo" class="profile-pic">
+
+        <h1>Visal Stephenraj R</h1>
+        <p><strong>About Me:</strong> Hi! My name is Visal Stephenraj R. <br>
+        I stand for love and equality for myself and others.</p>
+
+        <p><strong>Education:</strong><br>
+        I'm a student at Auroville Institute of Applied Technology, pursuing a B.Voc in Software Development & Machine Learning (First Year).</p>
+
+        <p><strong>Contact:</strong></p>
+        <p><strong>Email:</strong> visalva1773@gmail.com</p>
+        <p><strong>Phone:</strong> +91-8072964128</p>
+    </div>
+</body>
+</html>
